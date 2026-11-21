@@ -1,0 +1,29 @@
+body{
+    background-color:lightgreen;
+}
+
+
+h1{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.p{
+    color:rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    font-family:'Courier New', Courier, monospace;
+    font-size: medium;
+    text-align:left;
+    color: black;
+}
+
+a{
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: left;
+    color: black;
+    background-color: aliceblue;
+}
