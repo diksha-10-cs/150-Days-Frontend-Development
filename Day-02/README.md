@@ -1,0 +1,121 @@
+# Day 02 – My Dream Travel Places
+
+**Date:** 20 November 2026
+
+## 1. Learning Objective
+
+Practiced HTML and CSS by creating a travel webpage showcasing three dream destinations in India.
+
+## 2. HTML Tags Learned
+
+| HTML Tag | Purpose |
+|---|---|
+| `<img>` | Displays images on a webpage. |
+| `<ol>` | Creates an ordered list. |
+| `<ul>` | Creates an unordered list. |
+| `<li>` | Defines a list item. |
+| `<div>` | Groups HTML elements into a section. |
+| `<span>` | Groups inline text content. |
+| `<h1>` | Defines the main heading. |
+| `<h2>` | Defines a second-level heading. |
+| `<p>` | Defines a paragraph. |
+| `<br>` | Adds a line break. |
+
+### HTML Attributes Learned
+
+- `src` – Specifies the image file path.
+- `width` – Sets image width.
+- `height` – Sets image height.
+- `alt` – Provides alternative text for an image.
+- `id` – Gives an element a unique identifier.
+- `class` – Assigns a class name to an element.
+
+## 3. CSS Properties Learned
+
+| CSS Property | Purpose |
+|---|---|
+| `background-image` | Adds a background image. |
+| `background-size` | Controls background image size. |
+| `background-position` | Sets the background image position. |
+| `background-repeat` | Controls background image repetition. |
+| `background-attachment` | Controls background image scrolling. |
+| `background-color` | Sets the background color. |
+| `color` | Changes text color. |
+| `font-family` | Changes font style. |
+| `text-align` | Aligns text. |
+
+## 4. CSS Selectors Practiced
+
+- `body`
+- `h1`
+- `ol`
+- `h2`
+- `ul`
+- `p`
+- `.place1`
+- `.place2`
+- `.place3`
+- `.place-name`
+
+## 5. Practical Project
+
+**Project Name:** My Dream Travel Places
+
+**Description:** Created a travel webpage showcasing three dream destinations in India with images and information about each place.
+
+### Destinations Featured
+
+**1. Srinagar, Kashmir – Dal Lake**
+
+- Famous for its natural beauty, shikaras, houseboats and floating gardens.
+
+**2. Ladakh – Shanti Stupa**
+
+- A Buddhist monument known for its peaceful atmosphere and views of Leh.
+
+**3. Jaipur, Rajasthan – Hawa Mahal**
+
+- A historic palace known as the Palace of Winds.
+
+### Additional Places to Explore
+
+- Kashmir – Gulmarg
+- Ladakh – Pangong Lake
+- Rajasthan – Amer Fort
+
+## 6. Project Files
+
+- `index.html` – HTML structure and travel destination information.
+- `style.css` – CSS styling and background image.
+- `travelbackground.jpg` – Webpage background image.
+- `Shreenagar kashmir lake.jpg` – Srinagar image.
+- `Ladakh shantistup.jpg` – Ladakh image.
+- `Havamhala rajstana.jpg` – Rajasthan image.
+- `output.png` – Final webpage screenshot.
+
+## 7. What I Learned
+
+- How to display multiple images using the `<img>` tag.
+- How to create ordered and unordered lists.
+- How to group content using `<div>` and `<span>`.
+- How to use `id` and `class` attributes.
+- How to add a background image using CSS.
+- How to style headings, paragraphs and text.
+- How to create a webpage with multiple destination sections.
+
+## 8. Challenges and Improvements
+
+- Learned that HTML `id` and CSS class selectors must match correctly.
+- Identified that `.place1`, `.place2` and `.place3` do not target elements using `id="Place1"`, `id="Place2"` and `id="Place3"`.
+- Noticed that repeated `.place-name` CSS rules can be combined into one rule.
+- Identified text readability over background images as a design improvement.
+
+## 9. Learning Resource
+
+[W3Schools – HTML and CSS Tutorials](https://www.w3schools.com/)
+
+---
+
+**Day 02 Completed!**
+
+Learning HTML and CSS through practical projects.
