@@ -1,0 +1,70 @@
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(travelbackground.jpg);
+   
+}
+
+h1{
+    color: black;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol{
+    color:black;
+}
+
+h2{
+    color:black;
+    background-color: white;
+}
+
+ul{
+    color:white;
+}
+
+
+p{
+    color: white;
+}
+
+
+.place1 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+
+}
+
+.place-name{
+color: white;
+background-color:black;
+}
+
+.place2 {
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+
+}
+
+.place-name {
+color: white;
+background-color:black;
+}
+
+.place3 {
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+
+}
+
+.place-name{
+color: white;
+background-color:black;
+}
